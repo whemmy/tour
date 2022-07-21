@@ -387,6 +387,11 @@ Featured Tours
     flex: 0 0 calc(33.333% - 2rem);
   }
 }
+.tour-title{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 /*
 =============== 
 Deals
